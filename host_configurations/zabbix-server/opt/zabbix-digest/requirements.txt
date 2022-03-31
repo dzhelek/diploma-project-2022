@@ -1,5 +1,0 @@
-py-zabbix==1.1.7
-sendgrid==6.9.6
-psycopg==3.0.10
-python-dotenv==0.19.2
-

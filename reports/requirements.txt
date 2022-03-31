@@ -1,6 +1,7 @@
-disnake==2.4.0
 py-zabbix==1.1.7
+sendgrid==6.9.6
+psycopg==3.0.10
 python-dotenv==0.19.2
+disnake==2.4.0
 aiozabbix==1.1.2
 python-dateutil==2.8.2
-

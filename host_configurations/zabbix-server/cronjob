@@ -24,4 +24,4 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 #
 # m h  dom mon dow   command
-0 15 * * * /opt/zabbix-digest/main.py >> /var/log/zabbix/zabbix_digest.log 2>&1
+0 7 * * * /opt/zabbix-digest/main.py >> /var/log/zabbix/zabbix_digest.log 2>&1
