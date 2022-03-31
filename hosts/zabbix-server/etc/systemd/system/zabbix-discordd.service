@@ -1,0 +1,12 @@
+[Unit]
+Description=Python discord bot for zabbix integration
+
+[Service]
+User=root
+WorkingDirectory=/opt/zabbix-discord
+ExecStart=/opt/zabbix-discord/bot.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
